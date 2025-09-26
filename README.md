@@ -1,2 +1,2 @@
-# apprentissage_faiblement_supervis-
-Ensemble de Notebooks sur l'apprentissage faiblement supervisé
+# Low_supervised_learning
+Ensemble de Notebooks sur l'apprentissage faiblement supervis
